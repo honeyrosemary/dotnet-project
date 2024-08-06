@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Honeybaby_BookStore.Site" ClientIDMode="Static" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Home - My_BookStore</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Bootstrap Darkly theme CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom CSS -->
+    <link href="Content/site.css" rel="stylesheet" />
+    <!-- Font Awesome CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="headPlaceholder" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container">
+        <form id="form1" runat="server" class="form-horizontal">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <a class="navbar-brand">MyBookStore</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <asp:HyperLink NavigateUrl="~/Default" runat="server" CssClass="nav-link">
+                                <i class="fas fa-home"></i> Home
+                            </asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink NavigateUrl="~/Admin" runat="server" CssClass="nav-link">
+                                <i class="fas fa-user-shield"></i> Admin
+                            </asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink NavigateUrl="~/Order" runat="server" CssClass="nav-link">
+                                <i class="fas fa-book"></i> Order
+                            </asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink NavigateUrl="~/Products" runat="server" CssClass="nav-link">
+                                <i class="fas fa-book"></i> Books
+                            </asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink NavigateUrl="~/Cart" runat="server" CssClass="nav-link">
+                                <i class="fas fa-shopping-cart"></i> Cart
+                            </asp:HyperLink>
+                        </li>
+                        <li class="nav-item" id="loginNavItem" runat="server">
+                            <asp:HyperLink NavigateUrl="~/Login" runat="server" CssClass="nav-link">
+                                <i class="fas fa-user"></i> Login
+                            </asp:HyperLink>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <header class="jumbotron"><!-- image set in site.css --></header>
+            <main>
+                <h1><asp:Label ID="lblPageHeader" runat="server"></asp:Label></h1>
+                <asp:ContentPlaceHolder ID="mainPlaceholder" runat="server">
+                </asp:ContentPlaceHolder>
+            </main>
+            <footer class="text-center text-info">
+                <asp:ContentPlaceHolder ID="footerPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+                <div class="container footersec">
+                    <p>© 2024 MyBookStore. All rights reserved.</p>
+                    <p>
+                        <asp:HyperLink NavigateUrl="~/Default" runat="server">About Us</asp:HyperLink> |
+                        <asp:HyperLink NavigateUrl="~/Default" runat="server">Contact</asp:HyperLink> |
+                        <asp:HyperLink NavigateUrl="~/Default" runat="server">Privacy Policy</asp:HyperLink>
+                    </p>
+                </div>
+            </footer>
+        </form>
+    </div>
+</body>
+</html>

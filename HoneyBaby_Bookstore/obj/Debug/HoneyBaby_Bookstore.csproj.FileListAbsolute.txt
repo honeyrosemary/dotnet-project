@@ -1,0 +1,48 @@
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\csc.exe
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\System.Collections.Immutable.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\vbc.exe
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\VBCSCompiler.exe
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\VBCSCompiler.exe.config
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\HoneyBaby_Bookstore.dll.config
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\HoneyBaby_Bookstore.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\HoneyBaby_Bookstore.pdb
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBaby_Bookstore.csproj.AssemblyReference.cache
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBaby_Bookstore.csproj.CoreCompileInputs.cache
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBab.EEFFEEB2.Up2Date
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBaby_Bookstore.dll
+D:\Conestoga\Term3\.net\HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBaby_Bookstore.pdb
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBaby_Bookstore.csproj.AssemblyReference.cache
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBaby_Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\csc.exe
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\vbc.exe
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\VBCSCompiler.exe
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\HoneyBaby_Bookstore.dll.config
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\HoneyBaby_Bookstore.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\HoneyBaby_Bookstore.pdb
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBab.EEFFEEB2.Up2Date
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBaby_Bookstore.dll
+C:\Users\honey\Downloads\Assignment 2_HoneyBaby_Bookstore\HoneyBaby_Bookstore\HoneyBaby_Bookstore\obj\Debug\HoneyBaby_Bookstore.pdb

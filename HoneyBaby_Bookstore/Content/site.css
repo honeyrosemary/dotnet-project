@@ -1,0 +1,214 @@
+﻿/*** Bootstrap overrides ***/
+/* Custom CSS for toast messages */
+.toast {
+    background-color: #fff !important; /* Dark background for the toast container */
+    color: black !important; /* White text color */
+    border: 1px solid #555 !important; /* Light border to make it stand out */
+}
+
+.toast-success {
+    background-color: #28a745 !important; /* Green background for success messages */
+    color: #ffffff !important; /* White text color */
+}
+
+.toast-danger {
+    background-color: #dc3545 !important; /* Red background for error messages */
+    color: #ffffff !important; /* White text color */
+}
+
+.toast-warning {
+    background-color: #ffc107 !important; /* Yellow background for warning messages */
+    color: #212529 !important; /* Dark text color for contrast */
+}
+
+/* Ensure that toast header and body have proper styling */
+.toast-header {
+    background-color: #212529 !important; /* Darker background for the header */
+    color: #ffffff !important; /* White text color */
+}
+
+.toast-body {
+    color: #ffffff !important; /* White text color for the body */
+}
+
+.container {
+    border: 1px solid #cecece;
+    margin-top: 1em;
+    background-color: black;
+    font-size: 20px;
+    border: none;
+}
+.jumbotron {
+    
+    margin-top: 1em;
+    background-image: url(/Images/headerimage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+ 
+.btn {
+    margin-bottom: 1em;
+    margin-left: 97px;
+}
+
+label {
+    font-weight: normal;
+}
+
+/*** server controls ***/
+#lblUnitPrice {
+    font-weight: bold;
+}
+
+#lstCart {
+    min-height: 8em;
+}
+
+.home-page-background {
+    background-image: url('../Images/home-background.jpg'); /***image reference reference from: https://www.pexels.com/search/bookstore/***/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    padding: 20px;
+    height: 50px;
+}
+
+.container1 {
+    background-color: rgba(0, 0, 0, 0.75);
+    padding: 20px;
+    height: 500px;
+    max-width: 700px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#hometitle {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#tagline {
+    margin-top: 50px;
+    font-style: italic;
+}
+/* styles for the dropdown menu and items */
+.darkly-dropdown select,
+.darkly-dropdown .dropdown-menu {
+    background-color: #343a40 !important; /* Important to override default Bootstrap styles */
+    color: white !important;
+    border: 1px solid #495057 !important;
+}
+ 
+.darkly-dropdown .dropdown-item {
+    background-color: #343a40 !important;
+    color: white !important;
+}
+
+ .darkly-dropdown .dropdown-item:hover {
+        background-color: #495057 !important;
+ }
+
+.shadow-box {
+    max-width: 900px; 
+    max-height: 800px;
+    background-color: rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px rgb(128, 128, 128,0.1);
+    margin: 0 auto;  
+    padding: 20px;  
+}
+
+.containerProductTitle {
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fixed-image-size {
+    object-fit: cover;
+    border-radius:5px !important;
+    box-shadow: 0 0 20px rgb(0, 148, 255,0.25) !important;
+
+}
+.p-5 {
+    background: linear-gradient(to bottom, #000000,#006666, #006666,#156277);
+    margin-bottom:20px;
+}
+
+.checkout-form {
+    max-height: unset !important;
+    height: 100%;
+    margin-bottom: 2rem;
+}
+.calendar-container {
+    display: none;  
+    position: absolute;
+    z-index: 1000;
+}
+.welcome-msg {
+    color: ghostwhite !important;
+    font-weight: bolder !important
+}
+.login-error {
+    color: red !important;
+}
+.login {
+    background-image: url(/Images/login.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-box
+
+{
+    background-color: rgba(0, 0, 0, 0.9);  
+    padding: 20px;  
+    border-radius: 10px;  
+    width:700px !important;
+}
+
+.optional{
+    color:floralwhite !important;
+}
+.nav-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ .nav-list li {
+        margin-bottom: 5px; 
+    }
+.footersec {
+
+    background-color: #343a40; /* Dark background for footer */
+    padding: 20px 0;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+
+}
+.fixed-image-size {
+    height: 200px; 
+    object-fit: cover;
+}
+.checkbox{
+    height: 1200px !important;
+}
+ 
+

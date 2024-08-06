@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\productlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\productlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|c:\\users\\honey\\downloads\\assignment 2_honeybaby_bookstore\\honeybaby_bookstore\\honeybaby_bookstore\\bookmanage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\bookmanage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\bookmanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\bookmanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\bookmanage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\bookmanage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\order.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\order.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CONESTOGA_TERM3_.NET_HONEYBABY_BOOKSTORE_HONEYBABY_BOOKSTORE_HONEYBABY_BOOKSTORE_APP_DATA_BOOKSTORE.MDF/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\honey\\AppData\\Local\\Temp\\.vsdbgsrc\\908f0d728a79815d55e6c21a8d189169ae6b472d0d0c80d3a2bbebe3681102cb\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\honeybaby_bookstore\\order.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE993E-12F3-48E3-A52D-620D0D029CDB}|HoneyBaby_Bookstore\\HoneyBaby_Bookstore.csproj|solutionrelative:honeybaby_bookstore\\order.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HoneyBaby_Bookstore\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HoneyBaby_Bookstore\\Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site.Master",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Site.Master",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site.Master",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T18:16:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bookmanage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Bookmanage.aspx.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Bookmanage.aspx.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Bookmanage.aspx.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Bookmanage.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:50:38.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bookmanage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Bookmanage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Bookmanage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Bookmanage.aspx.designer.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Bookmanage.aspx.designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:50:48.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Admin.aspx.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Admin.aspx.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAgwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:55:00.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductList.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\ProductList.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\ProductList.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\ProductList.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\ProductList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-22T05:51:20.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bookmanage.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Bookmanage.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Bookmanage.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Bookmanage.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Bookmanage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-22T05:50:16.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Admin.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Admin.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Admin.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-18T22:53:31.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site.Master.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site.Master.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Site.Master.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:19:49.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site1.Master",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Site1.Master",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site1.Master",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Site1.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-21T21:45:49.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site1.Master.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Site1.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:35:30.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.Mobile.Master.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site.Mobile.Master.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Site.Mobile.Master.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Site.Mobile.Master.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Site.Mobile.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:35:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Products.aspx.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Products.aspx.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Products.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:05:29.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Order.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Order.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Order.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Order.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-29T15:45:21.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Login.aspx.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Login.aspx.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:18:54.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Order.aspx.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Order.aspx.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Order.aspx.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Order.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:55:37.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Login.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Login.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Login.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-15T16:53:55.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Products.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Products.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Products.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-15T00:07:05.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Default.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Default.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Default.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T18:17:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\packages.config",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\packages.config",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\packages.config",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-08T18:23:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Content\\site.css",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Content\\site.css",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Content\\site.css",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Content\\site.css",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-08T18:27:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Global.asax.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Global.asax.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Global.asax.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:39:04.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Models\\Customer.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:15:19.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartItemList.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Models\\CartItemList.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Models\\CartItemList.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Models\\CartItemList.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Models\\CartItemList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:05:15.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Models\\Book.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:07:36.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Models\\CartItem.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:07:39.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CONESTOGA_TERM3_.NET_HONEYBABY_BOOKSTORE_HONEYBABY_BOOKSTORE_HONEYBABY_BOOKSTORE_APP_DATA_BOOKSTORE.MDF/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-30T21:20:42.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\AppData\\Local\\Temp\\.vsdbgsrc\\908f0d728a79815d55e6c21a8d189169ae6b472d0d0c80d3a2bbebe3681102cb\\Order.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\908f0d728a79815d55e6c21a8d189169ae6b472d0d0c80d3a2bbebe3681102cb\\Order.cs",
+              "ToolTip": "C:\\Users\\honey\\AppData\\Local\\Temp\\.vsdbgsrc\\908f0d728a79815d55e6c21a8d189169ae6b472d0d0c80d3a2bbebe3681102cb\\Order.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\908f0d728a79815d55e6c21a8d189169ae6b472d0d0c80d3a2bbebe3681102cb\\Order.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:34:15.894Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CheckOut.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\CheckOut.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\CheckOut.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\CheckOut.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\CheckOut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-30T23:07:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Cart.aspx",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Cart.aspx",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Cart.aspx",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-29T21:12:03.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Cart.aspx.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Cart.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:12:35.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Web.config",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Web.config",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Web.config",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-29T18:54:22.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Web.Release.config",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Web.Release.config",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Web.Release.config",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-29T18:54:17.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Web.Debug.config",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Web.Debug.config",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-29T18:54:03.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Order.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Order.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HoneyBaby_Bookstore\\Order.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\honey\\Downloads\\Assignment 2_HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\HoneyBaby_Bookstore\\Order.aspx.designer.cs",
+              "RelativeToolTip": "HoneyBaby_Bookstore\\Order.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:55:49.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
